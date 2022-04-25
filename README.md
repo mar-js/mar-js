@@ -1,7 +1,7 @@
 Hi 👋 My name is Martín
 =======================
 
-Frontend Development
+Frontend Developer
 --------------------
 
 * 🌍  I'm based in República Argentina
