@@ -4,7 +4,7 @@ Hi 👋 My name is Martín
 Frontend Developer
 --------------------
 
-* 🌍  I'm based in República Argentina
+* 🌍  I'm based in The República Argentina
 * 🚀  I'm currently working on [Skydropx](http://www.skydropx.com/)
 * 🧠  I'm learning more about Javascript
 * 🤝  I'm open to collaborating on any project
