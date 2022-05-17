@@ -33,15 +33,3 @@ src="https://img.shields.io/github/followers/mar-js?logo=github&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mar-js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mar-js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mar-js"><img src="https://github-readme-stats.vercel.app/api?username=mar-js&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="mar-js's GitHub stats" /></a>
-
-<a href="http://www.github.com/mar-js"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mar-js&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/mar-js"><img src="https://activity-graph.herokuapp.com/graph?username=mar-js&bg_color=27272a&color=ffffff&line=14b8a6&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mar-js" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-js&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
