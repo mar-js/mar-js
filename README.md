@@ -5,7 +5,7 @@ Frontend Engineer
 --------------------
 
 * 🌍  I'm based in The República Argentina
-* 🚀  I'm currently working on [Skydropx](http://www.skydropx.com/)
+* 🚀  I'm currently working ...
 * 🧠  I'm learning more about Javascript
 * 🤝  I'm open to collaborating on any project
 * ⚡  I like it anime, music and strategies games
