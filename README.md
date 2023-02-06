@@ -1,6 +1,6 @@
 # Hi 👋 My name is Martín
 
-## Frontend Engineer
+## Frontend Engineer with React
 
 - 🌍  I'm based in The República Argentina.
 - 🚀  I'm currently working <a href="https://www.blink-srl.com/" target="_blank" rel="noreferrer">Blink SRL</a>
