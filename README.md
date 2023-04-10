@@ -8,9 +8,6 @@
 - 🤝  I'm open to collaborating on any project.
 - ⚡  I like it anime, music and strategies games.
 
-<a href="https://www.github.com/mar-js" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mar-js?logo=github&style=for-the-badge&color=14b8a6&labelColor=27272a" /></a>
-
 ## Skills
 
 ### Frontend
