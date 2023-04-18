@@ -6,7 +6,7 @@
 - 🚀  I'm currently working <a href="https://www.blink-srl.com/" target="_blank" rel="noreferrer">Blink SRL</a>
 - 🧠  I'm learning more about Javascript.
 - 🤝  I'm open to collaborating on any project.
-- ⚡  I like it anime, music and strategies games.
+- ⚡  I like ...
 
 ## Skills
 
