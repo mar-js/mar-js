@@ -1,16 +1,29 @@
-# Martín | Fullstack Developer
+# Martín | Frontend Developer 🚀
 
-**Desarrollador Fullstack con enfoque en la creación de aplicaciones web escalables y eficientes.**
+**Desarrollador Frontend especializado en la creación de interfaces web y aplicaciones móviles modernas, interactivas y eficientes.**
 
-### 🚀 Sobre mí
-- 💻 Actualmente trabajando con el ecosistema de **JavaScript** (React, Node.js) y **Ruby on Rails**.
-- 📊 Experiencia gestionando bases de datos **MySQL, PostgreSQL y SQLite**.
-- 🎓 Estudiante constante de nuevas tecnologías y mejores prácticas de desarrollo.
+---
+
+### 💻 Sobre mí
+
+- 🎨 **Especializado en Frontend:** Construyo aplicaciones web escalables utilizando el ecosistema de **React** y **TypeScript**.
+- 📱 **Desarrollo Mobile:** Creo aplicaciones móviles multiplataforma con **React Native**.
+- ⚙️ **Conocimientos Backend:** Cuento con base sólida en desarrollo backend con **Node.js** y **Express** para conectar y optimizar APIs.
+- 🎓 Apasionado por la arquitectura limpia, las buenas prácticas y el aprendizaje continuo.
+
+---
 
 ### 🛠 Tech Stack
-- **Frontend:** React, Next.js, Redux, TypeScript, Tailwind CSS, Material UI, Sass.
-- **Backend:** Node.js, Express, Ruby, Ruby on Rails.
-- **Data:** MySQL, PostgreSQL, SQLite.
 
-### 📩 Contacto
-- [LinkedIn](https://www.linkedin.com/in/mar-js)
+#### 🎨 Frontend & Mobile (Enfoque principal)
+- **Frameworks & Librerías:** React, React Native, Next.js, Redux, TypeScript.
+- **Estilos & UI:** Tailwind CSS, Material UI, Sass, CSS3 / HTML5.
+
+#### ⚙️ Backend & Bases de Datos
+- **Backend:** Node.js, Express, REST APIs.
+- **Databases:** PostgreSQL, MySQL, SQLite.
+
+---
+
+### 📩 Contacto & Redes
+- 💼 **LinkedIn:** [linkedin.com/in/mar-js](https://www.linkedin.com/in/mar-js)
